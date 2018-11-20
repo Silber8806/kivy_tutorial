@@ -1,3 +1,3 @@
 # kivy_tutorial
 
-Kivy Tutorial that I've been wanting to do for a while.
+Kivy Python mobile app development.  Event-driven GUI for mobile.
